@@ -96,10 +96,13 @@
 
 ###More info
 http://en.wikipedia.org/wiki/Agile_software_development
+http://en.wikipedia.org/wiki/Scrum_(software_development)
 http://en.wikipedia.org/wiki/Technology_roadmap
 http://en.wikipedia.org/wiki/Web_strategy
 http://en.wikipedia.org/wiki/Search_engine_optimization
 http://en.wikipedia.org/wiki/Search_engine_marketing
 http://en.wikipedia.org/wiki/Pay_per_click
 
-###
+###About niches
+http://drupalconnect.com/blog/top-5-niches-well-rounded-drupal-developer
+http://cyrve.com/niche
